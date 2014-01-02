@@ -29,3 +29,8 @@ Contributing
 ============
 
 If you're a player who finds this mod, feel free to submit bugs and feature requests directly via github. If you're a fellow modder, I fully encourage you to fork and submit a pull request with any changes you make.
+
+A Special Thanks
+================
+
+To my good friend aaronjarecki for the initial python version of the delta v script, on which this mod is heavily based.
